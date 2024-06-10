@@ -1,11 +1,10 @@
-import './App.css'
+import './App.scss'
+import Layout from './components/Layout/Layout'
 
 function App() {
 
   return (
-    <>
-      <h1>Welcome to Web Diary</h1>
-    </>
+    <Layout/>
   )
 }
 
